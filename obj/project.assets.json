@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sillajohanne/RiderProjects/dsv_mini/dsv mini/dsv mini.csproj",
+      "projectUniqueName": "/Users/sillajohanne/RiderProjects/DSV_vores_opgave/dsv mini.csproj",
       "projectName": "dsv mini",
-      "projectPath": "/Users/sillajohanne/RiderProjects/dsv_mini/dsv mini/dsv mini.csproj",
+      "projectPath": "/Users/sillajohanne/RiderProjects/DSV_vores_opgave/dsv mini.csproj",
       "packagesPath": "/Users/sillajohanne/.nuget/packages/",
-      "outputPath": "/Users/sillajohanne/RiderProjects/dsv_mini/dsv mini/obj/",
+      "outputPath": "/Users/sillajohanne/RiderProjects/DSV_vores_opgave/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sillajohanne/.nuget/NuGet/NuGet.Config"

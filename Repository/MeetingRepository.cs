@@ -6,7 +6,7 @@ public class MeetingRepository :IMeetingRepository
 {
     private List<Meeting> _meetingList;
 
-    private MeetingRepository()
+    public MeetingRepository()
     {
         //tom liste 
         _meetingList = new List<Meeting>();

@@ -6,8 +6,6 @@ public class Meeting
 
     public int NumberOfSeats { get; set; }
     
-    public string Mail { get; set; }
-    
     public DateTime StartTime { get; set; }
     public DateTime EndTime { get; set; }
     
@@ -28,10 +26,10 @@ public class Meeting
         Id =  MeetingCounter++;
     }
 
-    public Meeting(string mail, DateTime startTime, DateTime endTime ,string name , int numberOfSeats, string room, string description) 
+    public Meeting( DateTime startTime, DateTime endTime ,string name , int numberOfSeats, string room, string description) 
     : this ( name, numberOfSeats, room, description)
     {
-        Mail = mail;
+       
         StartTime = startTime;
         EndTime = endTime;
     }
