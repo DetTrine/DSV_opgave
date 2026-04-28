@@ -1,0 +1,48 @@
+using dsv_mini.Meetingroom;
+
+namespace dsv_mini.Repository;
+
+public class MeetingRepository :IMeetingRepository
+{
+    private List<Meeting> _meetingList;
+
+    private MeetingRepository()
+    {
+        //tom liste 
+        _meetingList = new List<Meeting>();
+        // vi tilføjer lokaler her 
+        Meeting m = new Meeting("mødelokale 1", 7, "36b",
+            "Kapacitet: 7 personer, Udstyr: Projektor, Whiteboard, Videokonferenceudstyr. Beskrivelse: Et mellemstort mødelokale som ofte bruges til teammøder eller online møder med andre kontorer.");
+        _meetingList.Add(m);
+        Meeting a = new Meeting("mødelokale 2", 20, "88y", "Kapacitet: 20 personer Udstyr: Projektor, Lydanlæg, Whiteboard, Mikrofon. Beskrivelse: Et stort mødelokale til workshops, præsentationer eller større møder.");
+        _meetingList.Add(a);
+        Meeting g = new Meeting("mødelokale 3", 12, "76h",
+            "Kapacitet: 12 personer, Udstyr: Stor skærm, Videokonferencekamera, Whiteboard, HDMI og USB-C tilslutning. Beskrivelse: Et større mødelokale der bruges til præsentationer og møder mellem flere afdelinger.");
+        _meetingList.Add(g);
+        Meeting p = new Meeting("mødelokale 4", 4, "15e",
+            "Kapacitet: 4 personer. Udstyr: Whiteboard, TV-skærm, HDMI-tilslutning. Beskrivelse: Et lille mødelokale der er velegnet til korte møder eller 1-1 samtaler.");
+        _meetingList.Add(p);
+
+    }
+
+    public List<Meeting> GetAll()
+    {
+        return _meetingList;
+        
+    }
+
+
+    public Meeting GetById(int id)
+    {
+        foreach (Meeting item in _meetingList )
+        {
+            if (item.Id == id)
+            {
+                return item;
+            }
+        }
+        return null;
+    }
+
+    
+}

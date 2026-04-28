@@ -1,0 +1,30 @@
+﻿@page
+@using dsv_mini.Meetingroom
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">DSV mødelokaler</h1>
+</div>
+
+@foreach (Meeting item in Model.Meetings)
+{
+    <div class="card mb-3">
+        <div>
+            < class="card-body">
+                <div class="d-flex flex-column flex-lg-row">
+                    <span class="avatar avatar-text rounded-3 me-4 mb-2">
+                        <a asp-page="Details" asp-route-id="@item.Id">@item.Name</a>
+
+                    </span>
+                    <div class="row flex-fill">
+                        
+                    </div>
+                </div>
+            
+        </div>
+
+    </div>
+}
