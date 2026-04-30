@@ -6,6 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddRazorPages();
 builder.Services.AddSingleton<IMeetingRepository, MeetingRepository>();
+builder.Services.AddSingleton<IBookingsystemRepo, Bookingsystem>(); 
 builder.Services.AddSingleton<MeetingService>();
 
 var app = builder.Build();

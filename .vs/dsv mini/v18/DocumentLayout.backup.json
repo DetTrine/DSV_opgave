@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\meetingroom\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:meetingroom\\meeting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\meetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:meetingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\repository\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:repository\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\repository\\meetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:repository\\meetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\repository\\imeetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:repository\\imeetingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\repository\\ibookingsystemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:repository\\ibookingsystemrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|c:\\users\\trine\\source\\repos\\dsv_vores_opgave\\bookingsystem\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}|dsv mini.csproj|solutionrelative:bookingsystem\\bookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Pages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T19:30:23.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:08:20.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bookingsystem.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\Bookingsystem.cs",
+              "RelativeDocumentMoniker": "Repository\\Bookingsystem.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\Bookingsystem.cs",
+              "RelativeToolTip": "Repository\\Bookingsystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T19:02:45.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingsystemRepo.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\IBookingsystemRepo.cs",
+              "RelativeDocumentMoniker": "Repository\\IBookingsystemRepo.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\IBookingsystemRepo.cs",
+              "RelativeToolTip": "Repository\\IBookingsystemRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T18:59:51.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Bookingsystem.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Bookingsystem\\Bookingsystem.cs",
+              "RelativeDocumentMoniker": "Bookingsystem\\Bookingsystem.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Bookingsystem\\Bookingsystem.cs",
+              "RelativeToolTip": "Bookingsystem\\Bookingsystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T18:40:03.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Meeting.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Meetingroom\\Meeting.cs",
+              "RelativeDocumentMoniker": "Meetingroom\\Meeting.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Meetingroom\\Meeting.cs",
+              "RelativeToolTip": "Meetingroom\\Meeting.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T18:31:04.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MeetingService.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\MeetingService.cs",
+              "RelativeDocumentMoniker": "MeetingService.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\MeetingService.cs",
+              "RelativeToolTip": "MeetingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T15:22:59.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MeetingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\MeetingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\MeetingRepository.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\MeetingRepository.cs",
+              "RelativeToolTip": "Repository\\MeetingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:01:12.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IMeetingRepository.cs",
+              "DocumentMoniker": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\IMeetingRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IMeetingRepository.cs",
+              "ToolTip": "C:\\Users\\trine\\source\\repos\\DSV_vores_opgave\\Repository\\IMeetingRepository.cs",
+              "RelativeToolTip": "Repository\\IMeetingRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T14:54:46.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

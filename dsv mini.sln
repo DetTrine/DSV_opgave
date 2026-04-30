@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 18
+VisualStudioVersion = 18.3.11512.155 d18.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dsv mini", "dsv mini.csproj", "{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB9FF425-46D8-1F75-FD69-54C756C0C4EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B3B5712-C468-4A46-8ABD-071602C408B6}
+	EndGlobalSection
+EndGlobal
