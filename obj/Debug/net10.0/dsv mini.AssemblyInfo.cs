@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dsv mini")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd1578ffc0e084e5284b19ed698785f8162fe53a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+846338f05c2739b6672bc397da26c1917d9daa9c")]
 [assembly: System.Reflection.AssemblyProductAttribute("dsv mini")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dsv mini")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

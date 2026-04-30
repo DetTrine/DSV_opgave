@@ -1,0 +1,40 @@
+using dsv_mini.Model;
+using dsv_mini.Repository;
+using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+
+namespace dsv_mini.Pages
+{
+    public class CreateBookingModel : PageModel
+    {
+        private IBookingsystemRepo _repo;
+
+        public CreateBookingModel(IBookingsystemRepo repo)
+        {
+            _repo = repo;
+        }
+
+        [BindProperty]
+        public Bookingsystem NewBooking { get; set; }
+
+        public void OnGet(int roomId) 
+        {
+            NewBooking = new Bookingsystem();
+            NewBooking.RoomId = roomId;
+        }
+
+        public IActionResult OnPost()
+        {
+            if (!ModelState.IsValid) 
+              return Page();
+
+            _repo.Add(NewBooking);
+
+            TempData["SuccessMessage"] = $"Tillykke! Din booking af lokale {NewBooking.RoomId} er nu oprettet.";
+
+            // Send user tilbage til oversigten eller detaljesiden efter succes
+            return RedirectToPage("/CreateBooking", new { id = NewBooking.RoomId });
+        }
+    }
+}
+
